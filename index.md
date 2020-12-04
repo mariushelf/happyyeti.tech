@@ -10,7 +10,7 @@ I am also a certified instructor of the Wim Hof Method. I teach how to use breat
 
 Get in touch:
 * [marius@happyyeti.tech](mailto:marius@happyyeti.tech)
-* [github.com](https://github.com/mariushelf)
+* [github.com/mariushelf](https://github.com/mariushelf)
 * [LinkedIn](https://www.linkedin.com/in/mariushelf/)
 
 
