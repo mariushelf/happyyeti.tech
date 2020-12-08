@@ -4,7 +4,7 @@ Hi, I'm Marius Helf. Welcome to my personal blog -- content yet to be created :)
 
 I work as a data scientist and data engineer at [Xomnia](https://xomnia.com).
 
-I am also a certified instructor of the Wim Hof Method. I teach how to use breathwork and extreme cold to gain more relaxation, happpyness and health. Check out [happyyeti.nl](https://happyyeti.nl).
+I am also a certified instructor of the Wim Hof Method. I teach how to use breathwork and extreme cold to gain more relaxation, happiness and health. Check out [happyyeti.nl](https://happyyeti.nl).
 
 ## Contact
 
